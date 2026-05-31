@@ -1,10 +1,10 @@
 **QUAREX**
 
 Finance-Manager:
-- **Übersicht** — Gesamtbilanz, Charts, letzte Aktivitäten
-- **Führerschein** — Kostentracking mit Budget & Kategorien
-- **Budget** — Einnahmen & Ausgaben mit Analyse
-- **Trading P&L** — Trade Journal, Kalender & Equity Kurve
+- **Übersicht**: Gesamtbilanz, Charts, letzte Aktivitäten
+- **Führerschein**: Kostentracking mit Budget & Kategorien
+- **Budget**: Einnahmen & Ausgaben mit Analyse
+- **Trading P&L**: Trade Journal, Kalender & Equity Kurve
 
 ### Voraussetzungen
 - [Node.js](https://nodejs.org/) installieren (LTS Version)
